@@ -31,10 +31,9 @@
   },
   "work": [
     {
-      "company": "United States Air Force",
       "position": "Career Transition - Cybersecurity",
-      "startDate": "2022-02-01",
-      "endDate": "2024-02-01",
+      "startDate": "2024-02-15",
+      "endDate": "Present",
       "highlights": [
         "Conducted vulnerability assessments using Nessus, configuring and scanning Metasploitable 2 to detect CVE-listed vulnerabilities and weaknesses. Researched and documented mitigation strategies such as system patching, disabling unused ports, and implementing firewall rules.",
         "Completed NIST DoD RMF course, increased understanding of Risk Management Framework Security Controls and their application to IA.",
@@ -42,7 +41,34 @@
         "Setup Google Authenticator on Ubuntu server, enabling time-based authentication tokens and configuring SSH and PAM settings to require MFA.",
         "Configured Splunk solution on Ubuntu to monitor security events, integrated system logs into data inputs, created search queries to track SSH failed login attempts, built a dashboard with a time chart panel, and simulated failed login attempts to validate the dashboard’s functionality."
       ]
-    }
+    },
+    {
+      
+        "company": "United States Air Force",
+        "position": "Satellite Communications Systems Manager",
+        "startDate": "2022-02-01",
+        "endDate": "2024-02-15",
+        "highlights": [
+          "Led 10-member team in maintaining 24/7 SATCOM data link supporting 120+ users, delivering 99.8% uptime for mission-critical systems essential to operational success.",
+          "Deployed iDirect GATR 950/1050 TS modems, Cisco ISR routers, and KG-250X encryptors, establishing a secure, segmented network for classified communications.",
+          "Designed on-the-spot redundant high-frequency (HF) communication to mitigate VoIP disruptions, ensuring uninterrupted reach-back for customers.",
+          "Developed documentation, records, and troubleshooting guides for Harris PRC-117G/152A/150C radios, lowering diagnostic time by 25%, minimizing repeat issues and accelerating hardware setup.",
+          "Enforced AES-256 and Type 1 encryption protocols, utilizing KVL 4000 and AN/PYQ-10 key loaders, ensuring compliance with DoD security protocols."
+        ]
+      },
+      {
+      
+        "company": "United States Air Force",
+        "position": "Radio Frequency Transmission Systems Supervisor",
+        "startDate": "2017-03-17",
+        "endDate": "2022-02-01",
+        "highlights": [
+          "Led multi-agency emergency network project, configuring 391 APX6000/7500 radios to unify communication across 14 partners, reducing response times by 30% during crisis scenarios.",
+          "Diagnosed and resolved VSWR test failures, using signal generator and spectrum analyzer on 6 Mystic Star antennas, isolating faulty connectors and replacing damaged transmission lines to restore signal integrity for data links.",
+          "Restored 24/7 emergency alert functionality, repairing circuit overloads and replacing voltage regulator of mass notification system, brought node online within 30 minutes of reported outage."
+        
+        ]
+      }
   ],
   "volunteer": [
     {
@@ -59,33 +85,31 @@
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
+      "institution": "Rutgers University - New Brunswick",
+      "area": "Information Technology and Informatics | Cybersecurity",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "startDate": "2024-01-16",
+      "endDate": "2026-05-17",
+      "gpa": "3.75",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "",
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "title": "John L. Levitow Leadership Award",
+      "date": "2021-09-24",
+      "awarder": "United States Air Force",
+      "summary": "the highest honor an ALS graduate can earn, presented to the Airman who demonstrates the most outstanding leadership and scholastic achievement throughout the course."
     }
   ],
-  "publications": [
+  "certifications": [
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "CompTia Security+",
+      "issued": "2019-07-25",
+      "expires": "2025-07-25"
     }
   ],
   "skills": [
