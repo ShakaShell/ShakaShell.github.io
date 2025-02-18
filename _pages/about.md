@@ -40,6 +40,9 @@ I'm passionate about cybersecurity and exploring new ways to protect data and sy
 Feel free to explore my [projects](/pages/projects/).
 
 ## Connect with me on LinkedIn
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/michaelroberts4){: style="width: 50px; height: auto;"}
+<a href="https://www.linkedin.com/in/michaelroberts4" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge">
+</a>
+
 
 
