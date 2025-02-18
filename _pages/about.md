@@ -40,5 +40,6 @@ I'm passionate about cybersecurity and exploring new ways to protect data and sy
 Feel free to explore my [projects](/pages/projects/).
 
 ## Connect with me on LinkedIn
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/michaelroberts4)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/michaelroberts4){: style="width: 50px; height: auto;"}
+
 
